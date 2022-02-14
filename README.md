@@ -1,12 +1,34 @@
 # Summer Hunters 2022 - Developer Assignment
 
+## About
+
+For this assignment I focused on the frontend aspect of the app and although extra improvements can be made, this is a functional app.
+
+## Features
+
+- [x] Porcu's picture according to him being a baby, grown-up or dead
+- [x] Porcu's stats change as time goes by
+- [x] Alerts are displayed as porcu gets hungry or sleepy
+- [x] Actions can be performed in order to improve Porcu's stats and health
+
+## Upcoming Features
+
+- [ ] A screen to show detailed information about Porcu's (age, hunger, energy, happiness and health);
+
+## Demo
+
+<a href="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/img/app_start.gif"><img src="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/img/app_start.gif" alt="Gif showing the app start-up" width="240"/></a>&nbsp; &nbsp; &nbsp;
+<a href="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/img/porcu_activities.gif"><img src="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/img/porcu_activities.gif" alt="Gif showing the activities Porcu can do to improve his stats and health" width="240"/></a>&nbsp; &nbsp; &nbsp;
+<a href="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/img/porcu_death.gif"><img src="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/img/porcu_death.gif" alt="Gif showing what happens when Porcu's health goes to 0" width="240"/></a></pre>
+</br>
+
 ## Homework assignment
 
 Welcome to Summer Hunters 2022 assignment phase!
 
 Within this assignment you are tasked to create your own Tamagotchi, or in this case Porcugotchi! Porcu is a fantastic fish -like creature who loves to play and eat.
 
-We don't expect you to use more than 8 hours doing this. If you get stuck, try doing something else. If you want, you can focus on the frontend or backend. Just remember to highlight your strengths with what you choose to do! 
+We don't expect you to use more than 8 hours doing this. If you get stuck, try doing something else. If you want, you can focus on the frontend or backend. Just remember to highlight your strengths with what you choose to do!
 
 ### Tasks:
 
@@ -44,7 +66,7 @@ To install or activate required dependencies, run following commands
 
 You will need to install [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) and [yarn](https://classic.yarnpkg.com/lang/en/docs/install)
 
-### (N)ode (V)ersion (M)anager 
+### (N)ode (V)ersion (M)anager
 
 `nvm use`
 
