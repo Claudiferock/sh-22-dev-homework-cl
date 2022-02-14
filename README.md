@@ -17,9 +17,9 @@ For this assignment I focused on the frontend aspect of the app and although ext
 
 ## Demo
 
-<a href="https://gyazo.com/848567123265418778569b7be4720dda"><img src="https://i.gyazo.com/848567123265418778569b7be4720dda.gif" alt="Image from Gyazo"><img href="https://gyazo.com/848567123265418778569b7be4720dda"><img src="https://i.gyazo.com/848567123265418778569b7be4720dda.gif" alt="Image from Gyazo" alt="Gif showing the app start-up" width="240"/></a>&nbsp; &nbsp; &nbsp;
-<a href="https://gyazo.com/2ce8f6ffe056b5999906ee50219ef922"><img src="https://i.gyazo.com/2ce8f6ffe056b5999906ee50219ef922.gif" alt="Image from Gyazo" /><img href="https://gyazo.com/2ce8f6ffe056b5999906ee50219ef922"><img src="https://i.gyazo.com/2ce8f6ffe056b5999906ee50219ef922.gif" alt="Image from Gyazo" alt="Gif showing the activities Porcu can do to improve his stats and health" width="240"/></a>&nbsp; &nbsp; &nbsp;
-<a href="https://gyazo.com/d0ea2dfa6428c5bd322ba5752026e1b4"><img src="https://i.gyazo.com/d0ea2dfa6428c5bd322ba5752026e1b4.gif" alt="Image from Gyazo"><img href="https://gyazo.com/d0ea2dfa6428c5bd322ba5752026e1b4"><img src="https://i.gyazo.com/d0ea2dfa6428c5bd322ba5752026e1b4.gif" alt="Image from Gyazo" alt="Gif showing what happens when Porcu's health goes to 0" width="240"/></a></pre>
+<a><img href="https://gyazo.com/848567123265418778569b7be4720dda"><img src="https://i.gyazo.com/848567123265418778569b7be4720dda.gif" alt="Image from Gyazo" alt="Gif showing the app start-up" width="240"/></a>&nbsp; &nbsp; &nbsp;
+<a><img href="https://gyazo.com/2ce8f6ffe056b5999906ee50219ef922"><img src="https://i.gyazo.com/2ce8f6ffe056b5999906ee50219ef922.gif" alt="Image from Gyazo" alt="Gif showing the activities Porcu can do to improve his stats and health" width="240"/></a>&nbsp; &nbsp; &nbsp;
+<a><img src="https://i.gyazo.com/d0ea2dfa6428c5bd322ba5752026e1b4.gif" alt="Image from Gyazo" alt="Gif showing what happens when Porcu's health goes to 0" width="240"/></a></pre>
 </br>
 
 ## Homework assignment
