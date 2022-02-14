@@ -17,9 +17,9 @@ For this assignment I focused on the frontend aspect of the app and although ext
 
 ## Demo
 
-<a href="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/img/app_start.gif"><img src="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/img/app_start.gif" alt="Gif showing the app start-up" width="240"/></a>&nbsp; &nbsp; &nbsp;
-<a href="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/img/porcu_activities.gif"><img src="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/img/porcu_activities.gif" alt="Gif showing the activities Porcu can do to improve his stats and health" width="240"/></a>&nbsp; &nbsp; &nbsp;
-<a href="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/img/porcu_death.gif"><img src="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/img/porcu_death.gif" alt="Gif showing what happens when Porcu's health goes to 0" width="240"/></a></pre>
+<a href="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/public/img/app_start.gif"><img src="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/public/img/app_start.gif" alt="Gif showing the app start-up" width="240"/></a>&nbsp; &nbsp; &nbsp;
+<a href="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/public/img/porcu_activities.gif"><img src="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/public/img/porcu_activities.gif" alt="Gif showing the activities Porcu can do to improve his stats and health" width="240"/></a>&nbsp; &nbsp; &nbsp;
+<a href="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/public/img/porcu_death.gif"><img src="https://raw.githubusercontent.com/Claudiferock/sh-22-dev-homework-cl/master/public/img/porcu_death.gif" alt="Gif showing what happens when Porcu's health goes to 0" width="240"/></a></pre>
 </br>
 
 ## Homework assignment
