@@ -1,0 +1,7 @@
+{
+  "name": "sh-22-dev-homework",
+  "version": "1.22.17",
+  "workspaces": [
+    "packages/*"
+  ]
+}
