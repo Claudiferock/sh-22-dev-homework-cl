@@ -8,6 +8,7 @@ import Weak_heart from '../../assets/heart_weak.svg';
 import Empty_heart from '../../assets/heart_empty.svg';
 import Baby_Porcu from '../../assets/baby_porcu.svg';
 import Porcu from '../../assets/porcu.svg';
+import Dead from '../../assets/death.svg';
 
 const StyledCharacter = styled.div`
   display: flex;
@@ -65,20 +66,23 @@ const BabyPorcuImg = styled.div`
 
 const PorcuImg = styled.div`
   transform: scale(0.35) translateY(-4rem);
-  animation: porcu 3s infinite linear;
   height: 5rem;
-  @keyframes porcu {
-    50% {
-      transform: scale(0.35) translateY(-4rem) translateX(0rem);
-    }
-    60% {
-      transform: scale(0.5) translateY(-4rem) translateX(5rem);
-    }
-    65% {
-      transform: scale(0.5) translateY(-4rem) translateX(-5rem);
-    }
-    70% {
-      transform: scale(0.35) translateY(-4rem) translateX(0rem);
+  #porcu {
+    transform: scale(1) translateY(-4rem);
+    animation: porcu 3s infinite linear;
+    @keyframes porcu {
+      50% {
+        transform: scale(1) translateY(-4rem) translateX(0rem);
+      }
+      60% {
+        transform: scale(0.75) translateY(-4rem) translateX(5rem);
+      }
+      65% {
+        transform: scale(0.75) translateY(-4rem) translateX(-5rem);
+      }
+      70% {
+        transform: scale(1) translateY(-4rem) translateX(0rem);
+      }
     }
   }
 `;
@@ -138,7 +142,7 @@ export const Character: FC<ICharacterProps> = ({
         </BabyPorcuImg>
       ) : (
         <PorcuImg>
-          <img src={Porcu} />
+          {health <= 0 ? <img src={Dead} /> : <img id='porcu' src={Porcu} />}
         </PorcuImg>
       )}
     </StyledCharacter>
